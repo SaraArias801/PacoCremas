@@ -15,8 +15,8 @@ Clonar el repositorio:bash    git clone https://github.com/SaraArias801/PacoCrem
 Equipo y Roles
 Gestor de Configuración: 
 
-Desarrollador: Sara Julissa Arias Ocampo
+Desarrollador: Sara Arias Ocampo
 
-Desarrollador y tester: Brandon Bedoya Blandon
+Desarrollador y tester: Brandon B. Blandon
 
 Proyecto con fines exclusivamente académicos para la Universidad catolica de Pereira.
