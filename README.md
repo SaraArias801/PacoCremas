@@ -2,7 +2,8 @@
 PacoCremas - Proyecto de Gestión de la Configuración del Software
 Práctica académica para la asignatura de Gestión de la Configuración del Software (GCS).
 
-Descripción
+Descripción:
+
 Este repositorio implementa un flujo de trabajo completo de control de versiones, integración y trazabilidad.
 Objetivos de la Práctica:
 Aplicar el control de versiones con Git.
