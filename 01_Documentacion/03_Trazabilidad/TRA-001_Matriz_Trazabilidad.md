@@ -120,7 +120,7 @@ SRC-001 v1.2
 
 ↓
 
-TST-001 v1.1 / CP-01
+TST-001 v1.2 / CP-01
 
 ↓
 
@@ -143,8 +143,8 @@ Nueva línea base, si el cambio es aprobado e integrado
 | Solicitud de cambio | Requisito afectado | Diseño afectado | Código afectado | Prueba afectada | Commit / PR | Estado |
 |--------------------|--------------------|-----------------|-----------------|-----------------|-------------|--------|
 | Sin cambios aprobados en la versión 1.0 | - | - | - | - | - | Línea base inicial |
-| CR-001 - Agregar teléfono al estudiante | REQ-001 v1.1 / RF-01 | DIS-001 v1.1 | SRC-001 v1.1 | TST-001 v1.1 / CP-01 | Commits realizados / PR pendiente | En implementación |
-| CR-001 - Agregar teléfono al estudiante | REQ-001 v1.2 / RF-01 | DIS-001 v1.2 | SRC-001 v1.2 | TST-001 v1.2 / CP-01 | Commits realizados / PR pendiente | En implementación |
+| CR-001 - Agregar teléfono al estudiante | REQ-001 v1.1 / RF-01 | DIS-001 v1.1 | SRC-001 v1.1 | TST-001 v1.1 / CP-01 | Commits realizados / PR pendiente | Completado |
+| CR-001 - Agregar teléfono secundario al estudiante | REQ-001 v1.2 / RF-01 | DIS-001 v1.2 | SRC-001 v1.2 | TST-001 v1.2 / CP-01 | Commits realizados / PR pendiente | Completado |
 
 ## 7. Observaciones
 
