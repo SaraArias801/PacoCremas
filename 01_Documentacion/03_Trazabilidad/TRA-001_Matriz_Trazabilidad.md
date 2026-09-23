@@ -5,11 +5,11 @@
 - Código del CI: TRA-001
 - Nombre: Matriz de Trazabilidad
 - Proyecto: PacoCremas
-- Versión: 1.1
+- Versión: 1.2
 - Estado: En modificación por CR-001
 - Fecha: 16/09/2026
 - Responsable: Equipo PacoCremas
-- Responsable del cambio: MInerva2026410
+- Responsable del cambio: BrandonBBlandon
 
 ## Historial de versiones
 
@@ -17,6 +17,7 @@
 |---------|-------|------------------------|-------------|
 | 1.0 | 09/09/2026 | Creación inicial de la matriz de trazabilidad | Equipo PacoCremas |
 | 1.1 | 16/09/2026 | Actualización de la trazabilidad asociada a CR-001 - Agregar teléfono al estudiante | MInerva2026410 |
+| 1.2 | 23/09/2026 | Actualización de la trazabilidad asociada a CR-001 - Agregar teléfono secundario al estudiante | BrandonBBlandon |
 
 ## 1. Objetivo
 
@@ -65,11 +66,11 @@ Los elementos anteriores corresponden a los artefactos afectados por la solicitu
 
 ### RF-01 - Registrar estudiante
 
-- Requisito: REQ-001 v1.1
+- Requisito: REQ-001 v1.2
 - Cambio asociado: CR-001 - Agregar teléfono al estudiante
-- Diseño asociado: DIS-001 v1.1 - Entidad Estudiante
-- Código asociado: SRC-001 v1.1 - Gestión de Estudiantes
-- Caso de prueba asociado: TST-001 v1.1 / CP-01
+- Diseño asociado: DIS-001 v1.2 - Entidad Estudiante
+- Código asociado: SRC-001 v1.2 - Gestión de Estudiantes
+- Caso de prueba asociado: TST-001 v1.2 / CP-01
 - Estado de trazabilidad: Completa
 - Estado del cambio: En implementación, pendiente de revisión
 
@@ -107,15 +108,15 @@ Solicitud de cambio CR-001
 
 ↓
 
-RF-01 de REQ-001 v1.1
+RF-01 de REQ-001 v1.2
 
 ↓
 
-DIS-001 v1.1
+DIS-001 v1.2
 
 ↓
 
-SRC-001 v1.1
+SRC-001 v1.2
 
 ↓
 
@@ -143,6 +144,7 @@ Nueva línea base, si el cambio es aprobado e integrado
 |--------------------|--------------------|-----------------|-----------------|-----------------|-------------|--------|
 | Sin cambios aprobados en la versión 1.0 | - | - | - | - | - | Línea base inicial |
 | CR-001 - Agregar teléfono al estudiante | REQ-001 v1.1 / RF-01 | DIS-001 v1.1 | SRC-001 v1.1 | TST-001 v1.1 / CP-01 | Commits realizados / PR pendiente | En implementación |
+| CR-001 - Agregar teléfono al estudiante | REQ-001 v1.2 / RF-01 | DIS-001 v1.2 | SRC-001 v1.2 | TST-001 v1.2 / CP-01 | Commits realizados / PR pendiente | En implementación |
 
 ## 7. Observaciones
 
@@ -151,6 +153,8 @@ Este documento constituye el Elemento de Configuración TRA-001.
 La versión 1.0 representa la trazabilidad correspondiente a la configuración inicial de PacoCremas establecida en BL-001.
 
 La versión 1.1 registra el impacto y las relaciones generadas por la solicitud de cambio CR-001 - Agregar teléfono al estudiante.
+
+La versión 1.2 agrega el teléfono secundario del estudiante.
 
 CR-001 se encuentra aprobada para implementación, pero todavía está pendiente de revisión e integración en la rama principal.
 

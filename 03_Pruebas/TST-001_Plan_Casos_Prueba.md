@@ -5,11 +5,11 @@
 - Código del CI: TST-001
 - Nombre: Plan y Casos de Prueba
 - Proyecto: PacoCremas
-- Versión: 1.1
+- Versión: 1.2
 - Estado: En modificación por CR-001
 - Fecha: 16/09/2026
 - Responsable: Equipo PacoCremas
-- Responsable del cambio: MInerva2026410
+- Responsable del cambio: BrandonBBlandon
 
 ## Historial de versiones
 
@@ -17,10 +17,11 @@
 |---------|-------|------------------------|-------------|
 | 1.0 | 09/09/2026 | Creación inicial del plan y casos de prueba | Equipo PacoCremas |
 | 1.1 | 16/09/2026 | Se actualiza CP-01 para validar el atributo teléfono según CR-001 | MInerva2026410 |
+| 1.2 | 16/09/2026 | Se actualiza CP-01 para validar el atributo teléfono secundario según CR-001 | BrandonBBlandon |
 
 ## 1. Objetivo
 
-Validar que las funcionalidades principales de PacoCremas cumplan con los requisitos definidos en REQ-001 versión 1.1.
+Validar que las funcionalidades principales de PacoCremas cumplan con los requisitos definidos en REQ-001 versión 1.2.
 
 ## 2. Alcance de las pruebas
 
@@ -46,6 +47,7 @@ Datos de entrada:
 - Nombre completo: Ana Pérez
 - Correo electrónico: ana@email.com
 - Teléfono: 3001234567
+- Teléfono secundario: 3207654321
 
 Resultado esperado: El sistema crea correctamente el estudiante y almacena identificación, nombre completo, correo electrónico y teléfono.
 
@@ -105,5 +107,6 @@ Estado esperado: Aprobado.
 Este documento constituye el Elemento de Configuración TST-001.
 
 La versión 1.1 de TST-001 se actualiza como consecuencia de CR-001 - Agregar teléfono al estudiante, para validar el cambio incorporado en REQ-001 v1.1, DIS-001 v1.1 y SRC-001 v1.1.
+La versión 1.2 de TST-001 se actualiza como consecuencia de CR-001 - Agregar teléfono secundario al estudiante, para validar el cambio incorporado en REQ-001 v1.1, DIS-001 v1.1 y SRC-001 v1.1.
 
 Los casos de prueba deberán actualizarse cuando una solicitud de cambio modifique los requisitos, el diseño o el código relacionado.

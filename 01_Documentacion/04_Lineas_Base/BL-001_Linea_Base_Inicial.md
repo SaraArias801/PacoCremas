@@ -5,7 +5,7 @@
 - Código: BL-001
 - Proyecto: PacoCremas
 - Nombre: Línea Base Inicial
-- Versión del producto: 1.0
+- Versión del producto: 1.2
 - Fecha de establecimiento: 09/09/2026
 - Estado: Aprobada
 - Responsable: Equipo PacoCremas
@@ -20,23 +20,23 @@ A partir de esta línea base, cualquier modificación sobre los elementos inclui
 
 | Código CI | Elemento de configuración | Versión | Estado |
 |-----------|---------------------------|---------|--------|
-| REQ-001 | Especificación de Requisitos | 1.0 | Aprobado |
-| DIS-001 | Diseño del Sistema | 1.0 | Aprobado |
-| SRC-001 | Gestión de Estudiantes | 1.0 | Aprobado |
-| TST-001 | Plan y Casos de Prueba | 1.0 | Aprobado |
-| TRA-001 | Matriz de Trazabilidad | 1.0 | Aprobado |
+| REQ-001 | Especificación de Requisitos | 1.2 | Aprobado |
+| DIS-001 | Diseño del Sistema | 1.2 | Aprobado |
+| SRC-001 | Gestión de Estudiantes | 1.2 | Aprobado |
+| TST-001 | Plan y Casos de Prueba | 1.2 | Aprobado |
+| TRA-001 | Matriz de Trazabilidad | 1.2 | Aprobado |
 
 ## 3. Relaciones de trazabilidad
 
 La configuración aprobada mantiene la siguiente relación:
 
-REQ-001 v1.0
+REQ-001 v1.2
 ↓
-DIS-001 v1.0
+DIS-001 v1.2
 ↓
-SRC-001 v1.0
+SRC-001 v1.2
 ↓
-TST-001 v1.0
+TST-001 v1.2
 
 TRA-001 v1.0 documenta las relaciones existentes entre estos elementos.
 

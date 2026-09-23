@@ -17,6 +17,7 @@
 |---------|-------|------------------------|-------------|
 | 1.0 | 09/09/2026 | Diseño inicial del sistema | Equipo PacoCremas |
 | 1.1 | 16/09/2026 | Se agrega el atributo teléfono a la entidad Estudiante según CR-001 | MInerva2026410 |
+| 1.2 | 23/09/2026 | Se agrega el atributo teléfono secundario | BrandonBBlandon |
 
 ## 1. Descripción general
 
@@ -36,6 +37,7 @@ La entidad Estudiante contiene inicialmente los siguientes atributos:
 - nombreCompleto
 - correoElectronico
 - telefono
+- telefono secundario
 
 ### Curso
 
