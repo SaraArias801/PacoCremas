@@ -1,18 +1,18 @@
 # SRC-001 - Gestión de Estudiantes
-# Proyecto: SoftEdu
+# Proyecto: PacoCremas
 # Versión: 1.1
 # Estado: En modificación por CR-001
 # Fecha: 16/09/2026
-# Responsable: Equipo SoftEdu
+# Responsable: Equipo PacoCremas
 # Responsable del cambio: MInerva2026410
 
 
 # SRC-001 - Gestión de Estudiantes
-# Proyecto: SoftEdu
+# Proyecto: PacoCremas
 # Versión: 1.1
 # Estado: En modificación por CR-001
 # Fecha: 09/09/2026
-# Responsable: Equipo SoftEdu
+# Responsable: Equipo PacoCremas
 
 
 class Estudiante:

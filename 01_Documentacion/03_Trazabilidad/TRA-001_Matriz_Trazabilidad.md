@@ -1,26 +1,26 @@
-# TRA-001 - Matriz de Trazabilidad de SoftEdu
+# TRA-001 - Matriz de Trazabilidad de PacoCremas
 
 ## Información del elemento de configuración
 
 - Código del CI: TRA-001
 - Nombre: Matriz de Trazabilidad
-- Proyecto: SoftEdu
+- Proyecto: PacoCremas
 - Versión: 1.1
 - Estado: En modificación por CR-001
 - Fecha: 16/09/2026
-- Responsable: Equipo SoftEdu
+- Responsable: Equipo PacoCremas
 - Responsable del cambio: MInerva2026410
 
 ## Historial de versiones
 
 | Versión | Fecha | Descripción del cambio | Responsable |
 |---------|-------|------------------------|-------------|
-| 1.0 | 09/09/2026 | Creación inicial de la matriz de trazabilidad | Equipo SoftEdu |
+| 1.0 | 09/09/2026 | Creación inicial de la matriz de trazabilidad | Equipo PacoCremas |
 | 1.1 | 16/09/2026 | Actualización de la trazabilidad asociada a CR-001 - Agregar teléfono al estudiante | MInerva2026410 |
 
 ## 1. Objetivo
 
-Relacionar los requisitos definidos para SoftEdu con los elementos de diseño, código fuente y pruebas que los implementan o verifican.
+Relacionar los requisitos definidos para PacoCremas con los elementos de diseño, código fuente y pruebas que los implementan o verifican.
 
 La matriz permite identificar qué elementos de configuración deben revisarse cuando un requisito sea modificado y registrar la trazabilidad de las solicitudes de cambio.
 
@@ -148,7 +148,7 @@ Nueva línea base, si el cambio es aprobado e integrado
 
 Este documento constituye el Elemento de Configuración TRA-001.
 
-La versión 1.0 representa la trazabilidad correspondiente a la configuración inicial de SoftEdu establecida en BL-001.
+La versión 1.0 representa la trazabilidad correspondiente a la configuración inicial de PacoCremas establecida en BL-001.
 
 La versión 1.1 registra el impacto y las relaciones generadas por la solicitud de cambio CR-001 - Agregar teléfono al estudiante.
 

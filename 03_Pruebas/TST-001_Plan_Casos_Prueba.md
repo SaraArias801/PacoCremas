@@ -1,26 +1,26 @@
-# TST-001 - Plan y Casos de Prueba de SoftEdu
+# TST-001 - Plan y Casos de Prueba de PacoCremas
 
 ## Información del elemento de configuración
 
 - Código del CI: TST-001
 - Nombre: Plan y Casos de Prueba
-- Proyecto: SoftEdu
+- Proyecto: PacoCremas
 - Versión: 1.1
 - Estado: En modificación por CR-001
 - Fecha: 16/09/2026
-- Responsable: Equipo SoftEdu
+- Responsable: Equipo PacoCremas
 - Responsable del cambio: MInerva2026410
 
 ## Historial de versiones
 
 | Versión | Fecha | Descripción del cambio | Responsable |
 |---------|-------|------------------------|-------------|
-| 1.0 | 09/09/2026 | Creación inicial del plan y casos de prueba | Equipo SoftEdu |
+| 1.0 | 09/09/2026 | Creación inicial del plan y casos de prueba | Equipo PacoCremas |
 | 1.1 | 16/09/2026 | Se actualiza CP-01 para validar el atributo teléfono según CR-001 | MInerva2026410 |
 
 ## 1. Objetivo
 
-Validar que las funcionalidades principales de SoftEdu cumplan con los requisitos definidos en REQ-001 versión 1.1.
+Validar que las funcionalidades principales de PacoCremas cumplan con los requisitos definidos en REQ-001 versión 1.1.
 
 ## 2. Alcance de las pruebas
 

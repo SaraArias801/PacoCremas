@@ -1,26 +1,26 @@
-# DIS-001 - Diseño del Sistema SoftEdu
+# DIS-001 - Diseño del Sistema PacoCremas
 
 ## Información del elemento de configuración
 
 - Código del CI: DIS-001
 - Nombre: Diseño del Sistema
-- Proyecto: SoftEdu
+- Proyecto: PacoCremas
 - Versión: 1.1
 - Estado: En modificación por CR-001
 - Fecha: 16/09/2026
-- Responsable: Equipo SoftEdu
+- Responsable: Equipo PacoCremas
 - Responsable del cambio: MInerva2026410
 
 ## Historial de versiones
 
 | Versión | Fecha | Descripción del cambio | Responsable |
 |---------|-------|------------------------|-------------|
-| 1.0 | 09/09/2026 | Diseño inicial del sistema | Equipo SoftEdu |
+| 1.0 | 09/09/2026 | Diseño inicial del sistema | Equipo PacoCremas |
 | 1.1 | 16/09/2026 | Se agrega el atributo teléfono a la entidad Estudiante según CR-001 | MInerva2026410 |
 
 ## 1. Descripción general
 
-SoftEdu se organiza en tres componentes principales:
+PacoCremas se organiza en tres componentes principales:
 
 1. Gestión de estudiantes.
 2. Gestión de cursos.

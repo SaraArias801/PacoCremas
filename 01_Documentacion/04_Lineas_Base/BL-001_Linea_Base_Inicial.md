@@ -1,18 +1,18 @@
-# BL-001 - Línea Base Inicial de SoftEdu
+# BL-001 - Línea Base Inicial de PacoCremas
 
 ## Información de la línea base
 
 - Código: BL-001
-- Proyecto: SoftEdu
+- Proyecto: PacoCremas
 - Nombre: Línea Base Inicial
 - Versión del producto: 1.0
 - Fecha de establecimiento: 09/09/2026
 - Estado: Aprobada
-- Responsable: Equipo SoftEdu
+- Responsable: Equipo PacoCremas
 
 ## 1. Objetivo
 
-Establecer el conjunto inicial de elementos de configuración aprobados que conforman la versión 1.0 de SoftEdu.
+Establecer el conjunto inicial de elementos de configuración aprobados que conforman la versión 1.0 de PacoCremas.
 
 A partir de esta línea base, cualquier modificación sobre los elementos incluidos deberá realizarse mediante un proceso controlado de cambio.
 
@@ -75,6 +75,6 @@ Esta etiqueta permitirá recuperar posteriormente el estado exacto del repositor
 
 ## 7. Observaciones
 
-BL-001 representa la configuración aprobada inicial de SoftEdu.
+BL-001 representa la configuración aprobada inicial de PacoCremas.
 
 Las futuras modificaciones no alterarán esta línea base. En caso de aprobarse cambios, se establecerá una nueva configuración y posteriormente una nueva línea base.

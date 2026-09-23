@@ -1,14 +1,14 @@
-# REQ-001 - Especificación de Requisitos de SoftEdu
+# REQ-001 - Especificación de Requisitos de PacoCremas
 
 ## Información del elemento de configuración
 
 - Código del CI: REQ-001
 - Nombre: Especificación de Requisitos
-- Proyecto: SoftEdu
+- Proyecto: PacoCremas
 - Versión: 1.1
 - Estado: - En modificación por CR-001
 - Fecha: 16/09/2026
-- Responsable: Equipo SoftEdu
+- Responsable: Equipo PacoCremas
 - Responsable del cambio: MInerva2026410
 
 
@@ -16,12 +16,12 @@
 
 | Versión | Fecha | Descripción del cambio | Responsable |
 |---------|-------|------------------------|-------------|
-| 1.0 | 09/09/2026 | Creación inicial de la especificación de requisitos | Equipo SoftEdu |
+| 1.0 | 09/09/2026 | Creación inicial de la especificación de requisitos | Equipo PacoCremas |
 | 1.1 | 16/09/2026 | Se agrega el número de teléfono al estudiante según CR-001 | MInerva2026410 |
 
 ## 1. Propósito
 
-SoftEdu es un sistema académico básico destinado a gestionar estudiantes, cursos y matrículas de una institución educativa.
+PacoCremas es un sistema académico básico destinado a gestionar estudiantes, cursos y matrículas de una institución educativa.
 
 ## 2. Alcance
 
