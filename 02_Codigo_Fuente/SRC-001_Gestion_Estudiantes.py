@@ -1,26 +1,19 @@
 # SRC-001 - Gestión de Estudiantes
 # Proyecto: PacoCremas
-# Versión: 1.1
+# Versión: 1.2
 # Estado: En modificación por CR-001
-# Fecha: 16/09/2026
+# Fecha: 23/09/2026
 # Responsable: Equipo PacoCremas
-# Responsable del cambio: MInerva2026410
-
-
-# SRC-001 - Gestión de Estudiantes
-# Proyecto: PacoCremas
-# Versión: 1.1
-# Estado: En modificación por CR-001
-# Fecha: 09/09/2026
-# Responsable: Equipo PacoCremas
+# Responsable del cambio: BrandonBBlandon
 
 
 class Estudiante:
-    def __init__(self, identificacion, nombre_completo, correo_electronico, telefono):
+    def __init__(self, identificacion, nombre_completo, correo_electronico, telefono, telefono_secundario):
         self.identificacion = identificacion
         self.nombre_completo = nombre_completo
         self.correo_electronico = correo_electronico
         self.telefono = telefono
+         self.telefono = telefono_secundario
 
     def mostrar_informacion(self):
         return {
@@ -28,6 +21,7 @@ class Estudiante:
             "nombre_completo": self.nombre_completo,
             "correo_electronico": self.correo_electronico,
             "telefono": self.telefono
+            "telefono_secundario" : self.telefono_secundario
         }
 
 
