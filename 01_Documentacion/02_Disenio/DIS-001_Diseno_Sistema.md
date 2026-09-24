@@ -9,14 +9,14 @@
 - Estado: Completado por CR-001
 - Fecha: 23/09/2026
 - Responsable: Equipo PacoCremas
-- Responsable del cambio: MInerva2026410
+- Responsable del cambio: BrandonBBlandon
 
 ## Historial de versiones
 
 | Versión | Fecha | Descripción del cambio | Responsable |
 |---------|-------|------------------------|-------------|
 | 1.0 | 09/09/2026 | Diseño inicial del sistema | Equipo PacoCremas |
-| 1.1 | 16/09/2026 | Se agrega el atributo teléfono a la entidad Estudiante según CR-001 | MInerva2026410 |
+| 1.1 | 16/09/2026 | Se agrega el atributo teléfono a la entidad Estudiante según CR-001 | BrandonBBlandon |
 | 1.2 | 23/09/2026 | Se agrega el atributo teléfono secundario | BrandonBBlandon |
 
 ## 1. Descripción general

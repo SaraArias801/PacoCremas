@@ -16,7 +16,7 @@
 | Versión | Fecha | Descripción del cambio | Responsable |
 |---------|-------|------------------------|-------------|
 | 1.0 | 09/09/2026 | Creación inicial del plan y casos de prueba | Equipo PacoCremas |
-| 1.1 | 16/09/2026 | Se actualiza CP-01 para validar el atributo teléfono según CR-001 | MInerva2026410 |
+| 1.1 | 16/09/2026 | Se actualiza CP-01 para validar el atributo teléfono según CR-001 | BrandonBBlandon |
 | 1.2 | 16/09/2026 | Se actualiza CP-01 para validar el atributo teléfono secundario según CR-001 | BrandonBBlandon |
 
 ## 1. Objetivo

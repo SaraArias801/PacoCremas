@@ -16,7 +16,7 @@
 | Versión | Fecha | Descripción del cambio | Responsable |
 |---------|-------|------------------------|-------------|
 | 1.0 | 09/09/2026 | Creación inicial de la matriz de trazabilidad | Equipo PacoCremas |
-| 1.1 | 16/09/2026 | Actualización de la trazabilidad asociada a CR-001 - Agregar teléfono al estudiante | MInerva2026410 |
+| 1.1 | 16/09/2026 | Actualización de la trazabilidad asociada a CR-001 - Agregar teléfono al estudiante | BrandonBBlandon |
 | 1.2 | 23/09/2026 | Actualización de la trazabilidad asociada a CR-001 - Agregar teléfono secundario al estudiante | BrandonBBlandon |
 
 ## 1. Objetivo
@@ -143,8 +143,8 @@ Nueva línea base, si el cambio es aprobado e integrado
 | Solicitud de cambio | Requisito afectado | Diseño afectado | Código afectado | Prueba afectada | Commit / PR | Estado |
 |--------------------|--------------------|-----------------|-----------------|-----------------|-------------|--------|
 | Sin cambios aprobados en la versión 1.0 | - | - | - | - | - | Línea base inicial |
-| CR-001 - Agregar teléfono al estudiante | REQ-001 v1.1 / RF-01 | DIS-001 v1.1 | SRC-001 v1.1 | TST-001 v1.1 / CP-01 | Commits realizados / PR pendiente | Completado |
-| CR-001 - Agregar teléfono secundario al estudiante | REQ-001 v1.2 / RF-01 | DIS-001 v1.2 | SRC-001 v1.2 | TST-001 v1.2 / CP-01 | Commits realizados / PR pendiente | Completado |
+| CR-001 - Agregar teléfono al estudiante | REQ-001 v1.1 / RF-01 | DIS-001 v1.1 | SRC-001 v1.1 | TST-001 v1.1 / CP-01 | Commits realizados  | Completado |
+| CR-001 - Agregar teléfono secundario al estudiante | REQ-001 v1.2 / RF-01 | DIS-001 v1.2 | SRC-001 v1.2 | TST-001 v1.2 / CP-01 | Commits realizados | Completado |
 
 ## 7. Observaciones
 
