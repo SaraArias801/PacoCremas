@@ -6,8 +6,8 @@
 - Nombre: Especificación de Requisitos
 - Proyecto: PacoCremas
 - Versión: 1.1
-- Estado: - En modificación por CR-001
-- Fecha: 16/09/2026
+- Estado: - Completado por CR-001
+- Fecha: 23/09/2026
 - Responsable: Equipo PacoCremas
 - Responsable del cambio: MInerva2026410
 
@@ -18,7 +18,7 @@
 |---------|-------|------------------------|-------------|
 | 1.0 | 09/09/2026 | Creación inicial de la especificación de requisitos | Equipo PacoCremas |
 | 1.1 | 16/09/2026 | Se agrega el número de teléfono al estudiante según CR-001 | MInerva2026410 |
-| 1.2 | 16/09/2026 | Se agrega el número de teléfono secundario al estudiante según CR-001 | BrandonBBlandon |
+| 1.2 | 23/09/2026 | Se agrega el número de teléfono secundario al estudiante según CR-001 | BrandonBBlandon |
 
 ## 1. Propósito
 
